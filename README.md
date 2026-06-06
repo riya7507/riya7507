@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Riya Deulkar 👋
 
-<!--
-**riya7507/riya7507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at MKSSS Cummins College of Engineering, Pune
 
-Here are some ideas to get you started:
+💻 Skills & Interests
+- Java
+- Data Structures & Algorithms (DSA)
+- Web Development
+- DBMS
+- Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- DSA
+- Full-Stack Development
+- Problem Solving
+
+🚀 Currently Solving LeetCode Problems
+
+📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/riya-deulkar-9741a432b
